@@ -14,7 +14,7 @@ class LogicBlock:
         return self.transform_func(product)
 
 
-# INDIVIDUAL BLOCKS
+
 
 def extract_benefits(product: Product) -> str:
     """Transform benefits into marketing copy."""
@@ -54,7 +54,7 @@ def extract_skin_type(product: Product) -> str:
     return f"Suitable for: {skin_types}."
 
 
-# COMPARISON BLOCKS
+
 
 def compare_ingredients(p1: Product, p2: Product) -> Dict:
     """Compare ingredients between products."""
@@ -94,7 +94,7 @@ def compare_prices(p1: Product, p2: Product) -> Dict:
     }
 
 
-# REGISTRY
+
 
 BLOCKS_REGISTRY = {
     "benefits": LogicBlock("benefits", extract_benefits),
