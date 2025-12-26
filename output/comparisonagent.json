@@ -1,0 +1,73 @@
+{
+  "title": "GlowBoost Vitamin C Serum vs RadiantGlow Serum Pro",
+  "products": [
+    {
+      "name": "GlowBoost Vitamin C Serum",
+      "concentration": "10% Vitamin C",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "price": "₹699"
+    },
+    {
+      "name": "RadiantGlow Serum Pro",
+      "concentration": "15% Vitamin C + 2% Niacinamide",
+      "skin_type": [
+        "All skin types"
+      ],
+      "price": "₹1,299"
+    }
+  ],
+  "ingredients_comparison": {
+    "product1_name": "GlowBoost Vitamin C Serum",
+    "product1_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "product2_name": "RadiantGlow Serum Pro",
+    "product2_ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Glycerin",
+      "Ferulic Acid"
+    ],
+    "shared": [
+      "Vitamin C"
+    ],
+    "unique_to_product1": [
+      "Hyaluronic Acid"
+    ],
+    "unique_to_product2": [
+      "Glycerin",
+      "Niacinamide",
+      "Ferulic Acid"
+    ]
+  },
+  "benefits_comparison": {
+    "product1_name": "GlowBoost Vitamin C Serum",
+    "product1_benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "product2_name": "RadiantGlow Serum Pro",
+    "product2_benefits": [
+      "Brightening",
+      "Anti-aging",
+      "Pore minimization"
+    ],
+    "shared_benefits": [
+      "Brightening"
+    ]
+  },
+  "price_comparison": {
+    "product1": {
+      "name": "GlowBoost Vitamin C Serum",
+      "price": "₹699"
+    },
+    "product2": {
+      "name": "RadiantGlow Serum Pro",
+      "price": "₹1,299"
+    }
+  }
+}
